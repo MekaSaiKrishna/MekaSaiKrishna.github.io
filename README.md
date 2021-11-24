@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Display picture](docs/assets/webstory-deadpool-image04-2@1.5x.jpg)
+![Display picture](MekaSaiKrishna.github.io/assets/webstory-deadpool-image04-2@1.5x.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
