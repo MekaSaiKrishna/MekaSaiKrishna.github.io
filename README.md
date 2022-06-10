@@ -1,5 +1,11 @@
 ## Welcome to my webpage
 
+An Aerospace graduate student from Purdue University working in the field of Composites at the prestigious Indiana Manufacturing Institute under the guidance of Dr.Dianyun Zhang.
+
+I am interested in a plethora of things out of which one is research in the field of composites, I love films and the art of filmmaking and plan to pursue it sometime down the line.
+
+I am currently enrolled in the Direct PhD program at Purdue University and am awarded Ross Fellowship to support my graduate studies.
+
 JUST FOR A CHANGE use the [editor on GitHub](https://github.com/MekaSaiKrishna/MekaSaiKrishna.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
