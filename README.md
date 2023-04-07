@@ -2,6 +2,8 @@
 
 An Aerospace graduate student from Purdue University working in the field of Composites at the prestigious Indiana Manufacturing Institute under the guidance of Dr.Dianyun Zhang.
 
+<img src="https://github.com/MekaSaiKrishna/MekaSaiKrishna.github.io/blob/main/docs/assets/webstory-deadpool-image04-2%401.5x.jpg" alt="MarineGEO circle logo"/>
+
 I am interested in a plethora of things out of which one is research in the field of composites, I love films and the art of filmmaking and plan to pursue it sometime down the line.
 
 I am currently enrolled in the Direct PhD program at Purdue University and am awarded Ross Fellowship to support my graduate studies.
